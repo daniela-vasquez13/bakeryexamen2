@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&display=swap');
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+header{
+	background-color: #fff;
+	border-bottom: 1px solid #eee;
+}
+
+#hero h5{
+	color: #EBB576;
+	text-transform: uppercase;
+}
+
+#hero h3{
+	color: #FFFFFF;
+	text-transform: uppercase;
+}
+	
+#services h3{
+	color: #555555;
+	text-align: center;
+	padding-top: 50px;
+	text-transform: uppercase;
+	font-size: 25px;
+}
+
+#services p{
+	text-align: center;
+	padding: 30px 0px;
+}
+
+#services img{
+	width: 100px;
+}
+
+#services{
+	text-align: center;
+}
+
+#services h5{
+	text-transform: uppercase;
+	color: #555555;
+	padding: 10px 0;
+}
+#counter{
+	background-size: cover;
+	background-position: center;
+	padding: 50px 0;
+	background-color: #ecb87d;
+	text-align: center;
+}
+#counter h5{
+	color: #FFFFFF;
+	font-size: 40px;
+
+}
+#counter p{
+	color: #FFFFFF;
+}
+
+#footer{
+	background-color: #000001;
+	padding: 40px 0;
+	
+}
+
+#footer img{
+	padding: 50px 0;
+	width: 100px;
+}
+
+#footer .la-twitter{
+	color: #FFFFFF;
+}
+
+#footer .la-instagram{
+	color: #FFFFFF;
+}
+#footer .la-facebook{
+	color: #FFFFFF;
+}
+
+#footer .la-envelope{
+	color: #FFFFFF;
+}
